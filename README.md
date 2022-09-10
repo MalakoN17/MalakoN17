@@ -11,7 +11,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Malako Benny Nagato
-- A Full-Stack Developer 
+- A software Developer 
 - Currently student at Teach Career college 🎓 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ### My technical skills  
