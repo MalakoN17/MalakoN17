@@ -15,7 +15,7 @@
 - Currently student at Teach Career college 🎓 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ### My technical skills 
-<img src="https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw"
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+![cssImg](https://user-images.githubusercontent.com/105584146/189504730-3968fc58-66dc-4a98-8f7c-a3b0b16c14de.png)
+
 
 ⭐️ From [Malako Nagato](https://github.com/MalakoN17)
