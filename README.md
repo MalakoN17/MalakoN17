@@ -36,6 +36,11 @@
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
   <img style="margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeesjcLs2k643nUhzjgwUpkMtOoT0uKkS_6w&usqp=CAU" alt=typescript width="60" height="60"/>
+
+<h4>Desktop Environment: </h4>
+<p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/slack.png" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
   
 
 
