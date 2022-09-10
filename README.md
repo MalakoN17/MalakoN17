@@ -15,7 +15,7 @@
 - Currently student at Teach Career college 🎓 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 ### My technical skills 
-  <img align="left" alt="Darshan's Github" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)" />
+  <img align="left" alt="Darshan's Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 
 
 ⭐️ From [Malako Nagato](https://github.com/MalakoN17)
